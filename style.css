@@ -1,0 +1,10 @@
+div#clock{
+    color: rgb(190, 13, 13);
+    text-align:  center;
+    border: 1px solid black;
+    border-style: double;
+    border-radius: 20px;
+    font-size: 150px;
+    margin: 250PX;
+    width: 800px;
+}
